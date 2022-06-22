@@ -13,6 +13,10 @@
     {
       "operationName": "build",
       "outputFolderNames": ["lib"]
+    },
+    {
+      "operationName": "build:istanbul",
+      "outputFolderNames": ["lib-istanbul"]
     }
   ]
 }

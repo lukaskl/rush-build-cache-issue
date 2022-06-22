@@ -66,4 +66,5 @@ common/autoinstallers/*/.npmrc
 
 # Common toolchain intermediate files
 lib
+lib-istanbul
 temp

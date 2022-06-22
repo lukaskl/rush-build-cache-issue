@@ -5,6 +5,7 @@
   "license": "MIT",
   "scripts": {
     "build": "node_modules/.bin/my-build",
+    "build:istanbul": "node_modules/.bin/my-build --istanbul",
     "my-bulk-command": "node_modules/.bin/my-bulk-command"
   },
   "dependencies": {

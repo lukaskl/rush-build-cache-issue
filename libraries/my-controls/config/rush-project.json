@@ -13,6 +13,11 @@
     {
       "operationName": "build",
       "outputFolderNames": ["lib"]
-    }
+    },
+    // Let's assume that here we forgot to define operationSettings for the build:istanbul command.
+    // {
+    //   "operationName": "build:istanbul",
+    //   "outputFolderNames": ["lib-istanbul"]
+    // }
   ]
 }
